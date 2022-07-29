@@ -12,6 +12,7 @@ Step- Traverse
 // creating a node class
 public class s1
 {
+	//register
 class node
 {
 	int data;
